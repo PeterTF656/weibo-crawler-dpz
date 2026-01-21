@@ -1,0 +1,26 @@
+{
+  "model": "opus",
+  "env": {
+    "NO_PROXY": "gaccode.com,localhost,127.0.0.1"
+  },
+  "permissions": {
+    "allow": [
+      "Bash(codex:*)",
+      "Bash(codex exec:*)"
+    ],
+    "deny": []
+  },
+  "hooks": {
+    "Stop": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "terminal-notifier -title 'Claude Code' -subtitle 'Session Complete' -message \"Finished working in $(basename \"$PWD\")\" -sound default -timeout 10"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "idx": 88,
+    "id": "3da8c4ed-b9ba-4a5c-b175-83885cdec1e5",
+    "created_at": "2025-09-08 15:10:51.377398+00",
+    "user_id": "dcd3a197-3a1b-4a2e-960c-f71b7e7ba83c",
+    "content": "服了，太难吃了吧",
+    "purpose_y": null,
+    "focus_domain_x": null,
+    "summary": null,
+    "type": "text",
+    "status": null,
+    "mongodb_id": null,
+    "html_content": null,
+    "media_tasks": [
+      {
+        "task_id": null,
+        "media_id": "254706d2-68e9-4688-8fe7-799f9e79982d",
+        "metadata": null,
+        "media_url": "https://wpggtjzeecbyrmwansjg.supabase.co/storage/v1/object/public/testing-bucket/1756895121928_IMG_0007.jpg?",
+        "media_type": "simple",
+        "media_sub_type": "rich_text"
+      }
+    ],
+    "task_ids": ["b4366e7e-5d7d-4672-8383-e8915e272f38"]
+  }
+]
