@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-01-21T03:47:54.772719+00:00",
+  "weibo_user_id": "6607408050",
+  "supabase_user_id": "23dba8fa-a026-5101-bfc7-8393a9d531b5",
+  "username": "伤心嚯阔洛",
+  "user_rows": 1,
+  "post_rows": 13,
+  "post_date_range": {
+    "min": "2025-06-01T16:46:57+00:00",
+    "max": "2025-12-15T19:41:32+00:00"
+  },
+  "source_files": {
+    "user": "supabase_user_6607408050.json",
+    "posts": "supabase_posts_6607408050.json"
+  },
+  "output_files": {
+    "user": "by-user/6607408050/user.json",
+    "posts": "by-user/6607408050/posts.json",
+    "metadata": "by-user/6607408050/metadata.json"
+  }
+}

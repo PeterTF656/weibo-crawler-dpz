@@ -1,0 +1,51 @@
+[
+  {
+    "idx": 1,
+    "id": "249fc35e-79f3-5ea9-860c-83cdb84fc063",
+    "user_id": "e27779d2-f2e4-5f25-8613-a9b31e77ff29",
+    "content": "感觉自己又充满了勇气！\n\n// @伤心嚯阔洛: 感觉自己又充满了勇气！",
+    "type": "text",
+    "created_at": "2025-06-02T16:05:14+00:00",
+    "html_content": null,
+    "summary": null,
+    "purpose_y": null,
+    "focus_domain_x": null,
+    "status": null,
+    "mongodb_id": "5173241347836495",
+    "media_tasks": [
+      {
+        "task_id": null,
+        "media_id": "93d31849-b687-53c0-a158-229e3055094c",
+        "metadata": {
+          "source": "weibo",
+          "kind": "image",
+          "original_url": "https://wx1.sinaimg.cn/large/007da0FAly1i20b26xn9gj30u0140dld.jpg",
+          "weibo_post_id": "5172889461457090",
+          "weibo_user_id": "6607408050",
+          "index": 0,
+          "from": "retweet"
+        },
+        "media_url": "https://wx1.sinaimg.cn/large/007da0FAly1i20b26xn9gj30u0140dld.jpg",
+        "media_type": "simple",
+        "media_sub_type": "rich_text"
+      },
+      {
+        "task_id": null,
+        "media_id": "215865a0-b2b2-59f2-bf1b-d6014b15dedf",
+        "metadata": {
+          "source": "weibo",
+          "kind": "live_photo",
+          "original_url": "https://video.weibo.com/media/play?livephoto=https%3A%2F%2Flivephoto.us.sinaimg.cn%2F003zSFUUjx08oI7ka3C80f0f01001twc0k01.mov",
+          "weibo_post_id": "5172889461457090",
+          "weibo_user_id": "6607408050",
+          "index": 0,
+          "from": "retweet"
+        },
+        "media_url": "https://video.weibo.com/media/play?livephoto=https%3A%2F%2Flivephoto.us.sinaimg.cn%2F003zSFUUjx08oI7ka3C80f0f01001twc0k01.mov",
+        "media_type": "simple",
+        "media_sub_type": "rich_text"
+      }
+    ],
+    "task_ids": null
+  }
+]

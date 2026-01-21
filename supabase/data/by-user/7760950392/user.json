@@ -1,0 +1,19 @@
+[
+  {
+    "idx": 1,
+    "id": "e27779d2-f2e4-5f25-8613-a9b31e77ff29",
+    "username": "crispChristdot_com",
+    "full_name": null,
+    "first_name": null,
+    "email": null,
+    "avatar_url": "https://wx1.sinaimg.cn/orj480/008te9Jely8i8ir7z9au1j30u00u0ae4.jpg",
+    "created_at": "2022-05-14T16:00:00+00:00",
+    "updated_at": "2026-01-21T03:31:42.198422+00:00",
+    "last_activity_at": "2025-06-02T16:05:14+00:00",
+    "invitation_code": "000001",
+    "expo_token": null,
+    "onboard_finished": false,
+    "hide": false,
+    "metadata": "{\"source\": \"weibo-crawler-dpz\", \"imported_at\": \"2026-01-21T03:31:42.198422+00:00\", \"weibo_user_id\": \"7760950392\", \"profile_url\": \"https://m.weibo.cn/u/7760950392?launchid=10000360-page_H5\", \"gender\": \"m\", \"birthday\": \"\", \"location\": \"其他\", \"ip_location\": \"北京（IP属地以运营商信息为准，如有问题可咨询客服）\", \"education\": \"\", \"company\": \"\", \"sunshine\": \"信用较好\", \"registration_time\": \"2022-05-15\", \"statuses_count\": 685, \"followers_count\": 24, \"follow_count\": 124, \"description\": \"新建文件夹\", \"verified\": false, \"verified_type\": -1, \"verified_reason\": \"\", \"urank\": 0, \"mbrank\": 0, \"profile_image_url\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.180/008te9Jely8i8ir7z9au1j30u00u0ae4.jpg?KID=imgbed,tva&Expires=1768937049&ssig=%2FCesgymU4C\", \"avatar_hd\": \"https://wx1.sinaimg.cn/orj480/008te9Jely8i8ir7z9au1j30u00u0ae4.jpg\", \"avatar_url\": \"https://wx1.sinaimg.cn/orj480/008te9Jely8i8ir7z9au1j30u00u0ae4.jpg\", \"full_avatar_url\": \"https://wx1.sinaimg.cn/orj480/008te9Jely8i8ir7z9au1j30u00u0ae4.jpg\"}"
+  }
+]

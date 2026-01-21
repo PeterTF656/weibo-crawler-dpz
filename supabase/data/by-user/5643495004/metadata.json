@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-01-21T03:47:54.772719+00:00",
+  "weibo_user_id": "5643495004",
+  "supabase_user_id": "44ce1c7f-cce2-52a1-8c03-7e208435d700",
+  "username": "茜茜茜呀哈x",
+  "user_rows": 1,
+  "post_rows": 393,
+  "post_date_range": {
+    "min": "2026-01-01T16:23:27+00:00",
+    "max": "2026-01-20T15:52:24+00:00"
+  },
+  "source_files": {
+    "user": "supabase_user_5643495004.json",
+    "posts": "supabase_posts_5643495004.json"
+  },
+  "output_files": {
+    "user": "by-user/5643495004/user.json",
+    "posts": "by-user/5643495004/posts.json",
+    "metadata": "by-user/5643495004/metadata.json"
+  }
+}

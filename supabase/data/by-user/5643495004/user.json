@@ -1,0 +1,19 @@
+[
+  {
+    "idx": 1,
+    "id": "44ce1c7f-cce2-52a1-8c03-7e208435d700",
+    "username": "茜茜茜呀哈x",
+    "full_name": null,
+    "first_name": null,
+    "email": null,
+    "avatar_url": "https://wx1.sinaimg.cn/orj480/0069VwQYly8hw94kwl29hj30e80e8t91.jpg",
+    "created_at": "2015-06-30T16:00:00+00:00",
+    "updated_at": "2026-01-21T03:35:14.064733+00:00",
+    "last_activity_at": "2026-01-20T15:52:24+00:00",
+    "invitation_code": "000001",
+    "expo_token": null,
+    "onboard_finished": false,
+    "hide": false,
+    "metadata": "{\"source\": \"weibo-crawler-dpz\", \"imported_at\": \"2026-01-21T03:35:14.064733+00:00\", \"weibo_user_id\": \"5643495004\", \"profile_url\": \"https://m.weibo.cn/u/5643495004?launchid=10000360-page_H5\", \"gender\": \"f\", \"birthday\": \"\", \"location\": \"北京\", \"ip_location\": \"北京（IP属地以运营商信息为准，如有问题可咨询客服）\", \"education\": \"\", \"company\": \"\", \"sunshine\": \"信用较好\", \"registration_time\": \"2015-07-01\", \"statuses_count\": 6557, \"followers_count\": 289, \"follow_count\": 421, \"description\": \"记得微笑\", \"verified\": false, \"verified_type\": -1, \"verified_reason\": \"\", \"urank\": 9, \"mbrank\": 0, \"profile_image_url\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.180/0069VwQYly8hw94kwl29hj30e80e8t91.jpg?KID=imgbed,tva&Expires=1768937302&ssig=LBUviU%2Bpdd\", \"avatar_hd\": \"https://wx1.sinaimg.cn/orj480/0069VwQYly8hw94kwl29hj30e80e8t91.jpg\", \"avatar_url\": \"https://wx1.sinaimg.cn/orj480/0069VwQYly8hw94kwl29hj30e80e8t91.jpg\", \"full_avatar_url\": \"https://wx1.sinaimg.cn/orj480/0069VwQYly8hw94kwl29hj30e80e8t91.jpg\"}"
+  }
+]

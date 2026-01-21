@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-01-21T03:47:54.772719+00:00",
+  "weibo_user_id": "7760950392",
+  "supabase_user_id": "e27779d2-f2e4-5f25-8613-a9b31e77ff29",
+  "username": "crispChristdot_com",
+  "user_rows": 1,
+  "post_rows": 1,
+  "post_date_range": {
+    "min": "2025-06-02T16:05:14+00:00",
+    "max": "2025-06-02T16:05:14+00:00"
+  },
+  "source_files": {
+    "user": "supabase_user_7760950392.json",
+    "posts": "supabase_posts_7760950392.json"
+  },
+  "output_files": {
+    "user": "by-user/7760950392/user.json",
+    "posts": "by-user/7760950392/posts.json",
+    "metadata": "by-user/7760950392/metadata.json"
+  }
+}

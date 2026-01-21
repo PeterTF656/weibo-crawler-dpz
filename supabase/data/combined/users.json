@@ -1,0 +1,53 @@
+[
+  {
+    "idx": 1,
+    "id": "44ce1c7f-cce2-52a1-8c03-7e208435d700",
+    "username": "茜茜茜呀哈x",
+    "full_name": null,
+    "first_name": null,
+    "email": null,
+    "avatar_url": "https://wx1.sinaimg.cn/orj480/0069VwQYly8hw94kwl29hj30e80e8t91.jpg",
+    "created_at": "2015-06-30T16:00:00+00:00",
+    "updated_at": "2026-01-21T03:35:14.064733+00:00",
+    "last_activity_at": "2026-01-20T15:52:24+00:00",
+    "invitation_code": "000001",
+    "expo_token": null,
+    "onboard_finished": false,
+    "hide": false,
+    "metadata": "{\"source\": \"weibo-crawler-dpz\", \"imported_at\": \"2026-01-21T03:35:14.064733+00:00\", \"weibo_user_id\": \"5643495004\", \"profile_url\": \"https://m.weibo.cn/u/5643495004?launchid=10000360-page_H5\", \"gender\": \"f\", \"birthday\": \"\", \"location\": \"北京\", \"ip_location\": \"北京（IP属地以运营商信息为准，如有问题可咨询客服）\", \"education\": \"\", \"company\": \"\", \"sunshine\": \"信用较好\", \"registration_time\": \"2015-07-01\", \"statuses_count\": 6557, \"followers_count\": 289, \"follow_count\": 421, \"description\": \"记得微笑\", \"verified\": false, \"verified_type\": -1, \"verified_reason\": \"\", \"urank\": 9, \"mbrank\": 0, \"profile_image_url\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.180/0069VwQYly8hw94kwl29hj30e80e8t91.jpg?KID=imgbed,tva&Expires=1768937302&ssig=LBUviU%2Bpdd\", \"avatar_hd\": \"https://wx1.sinaimg.cn/orj480/0069VwQYly8hw94kwl29hj30e80e8t91.jpg\", \"avatar_url\": \"https://wx1.sinaimg.cn/orj480/0069VwQYly8hw94kwl29hj30e80e8t91.jpg\", \"full_avatar_url\": \"https://wx1.sinaimg.cn/orj480/0069VwQYly8hw94kwl29hj30e80e8t91.jpg\"}"
+  },
+  {
+    "idx": 1,
+    "id": "23dba8fa-a026-5101-bfc7-8393a9d531b5",
+    "username": "伤心嚯阔洛",
+    "full_name": null,
+    "first_name": null,
+    "email": null,
+    "avatar_url": "https://wx2.sinaimg.cn/orj480/007da0FAly8hpwggofmivj30e80e83yp.jpg",
+    "created_at": "2018-07-19T16:00:00+00:00",
+    "updated_at": "2026-01-21T03:33:00.670621+00:00",
+    "last_activity_at": "2025-12-15T19:41:32+00:00",
+    "invitation_code": "000001",
+    "expo_token": null,
+    "onboard_finished": false,
+    "hide": false,
+    "metadata": "{\"source\": \"weibo-crawler-dpz\", \"imported_at\": \"2026-01-21T03:33:00.670621+00:00\", \"weibo_user_id\": \"6607408050\", \"profile_url\": \"https://m.weibo.cn/u/6607408050?launchid=10000360-page_H5\", \"gender\": \"f\", \"birthday\": \"2002-12-23  摩羯座\", \"location\": \"福建\", \"ip_location\": \"湖北（IP属地以运营商信息为准，如有问题可咨询客服）\", \"education\": \"\", \"company\": \"\", \"sunshine\": \"信用较好\", \"registration_time\": \"2018-07-20\", \"statuses_count\": 207, \"followers_count\": 40, \"follow_count\": 110, \"description\": \"我偏爱写诗的荒谬，胜过不写诗的荒谬\", \"verified\": false, \"verified_type\": -1, \"verified_reason\": \"\", \"urank\": 4, \"mbrank\": 0, \"profile_image_url\": \"https://tvax2.sinaimg.cn/crop.0.0.512.512.180/007da0FAly8hpwggofmivj30e80e83yp.jpg?KID=imgbed,tva&Expires=1768937084&ssig=n%2FI4amQ9J0\", \"avatar_hd\": \"https://wx2.sinaimg.cn/orj480/007da0FAly8hpwggofmivj30e80e83yp.jpg\", \"avatar_url\": \"https://wx2.sinaimg.cn/orj480/007da0FAly8hpwggofmivj30e80e83yp.jpg\", \"full_avatar_url\": \"https://wx2.sinaimg.cn/orj480/007da0FAly8hpwggofmivj30e80e83yp.jpg\"}"
+  },
+  {
+    "idx": 1,
+    "id": "e27779d2-f2e4-5f25-8613-a9b31e77ff29",
+    "username": "crispChristdot_com",
+    "full_name": null,
+    "first_name": null,
+    "email": null,
+    "avatar_url": "https://wx1.sinaimg.cn/orj480/008te9Jely8i8ir7z9au1j30u00u0ae4.jpg",
+    "created_at": "2022-05-14T16:00:00+00:00",
+    "updated_at": "2026-01-21T03:31:42.198422+00:00",
+    "last_activity_at": "2025-06-02T16:05:14+00:00",
+    "invitation_code": "000001",
+    "expo_token": null,
+    "onboard_finished": false,
+    "hide": false,
+    "metadata": "{\"source\": \"weibo-crawler-dpz\", \"imported_at\": \"2026-01-21T03:31:42.198422+00:00\", \"weibo_user_id\": \"7760950392\", \"profile_url\": \"https://m.weibo.cn/u/7760950392?launchid=10000360-page_H5\", \"gender\": \"m\", \"birthday\": \"\", \"location\": \"其他\", \"ip_location\": \"北京（IP属地以运营商信息为准，如有问题可咨询客服）\", \"education\": \"\", \"company\": \"\", \"sunshine\": \"信用较好\", \"registration_time\": \"2022-05-15\", \"statuses_count\": 685, \"followers_count\": 24, \"follow_count\": 124, \"description\": \"新建文件夹\", \"verified\": false, \"verified_type\": -1, \"verified_reason\": \"\", \"urank\": 0, \"mbrank\": 0, \"profile_image_url\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.180/008te9Jely8i8ir7z9au1j30u00u0ae4.jpg?KID=imgbed,tva&Expires=1768937049&ssig=%2FCesgymU4C\", \"avatar_hd\": \"https://wx1.sinaimg.cn/orj480/008te9Jely8i8ir7z9au1j30u00u0ae4.jpg\", \"avatar_url\": \"https://wx1.sinaimg.cn/orj480/008te9Jely8i8ir7z9au1j30u00u0ae4.jpg\", \"full_avatar_url\": \"https://wx1.sinaimg.cn/orj480/008te9Jely8i8ir7z9au1j30u00u0ae4.jpg\"}"
+  }
+]
